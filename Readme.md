@@ -2,4 +2,4 @@
 
 Команда запуска:
 
-Для полной сборки и вывода отчёта - clean test allure:serve
+Для полной сборки и вывода отчёта - mvn clean test allure:serve
